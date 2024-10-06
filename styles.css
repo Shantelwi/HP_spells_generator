@@ -18,7 +18,6 @@ body{
     font-family: sans-serif;
     background-image: url(images/hp.jpg);
     background-size: cover;
-    overflow: hidden;
 }
 
 h2{
